@@ -79,10 +79,5 @@ Suggestions to improve your password:
 
 ---
 
-## 🤝 Acknowledgement
-Thanks to **Prodigy InfoTech** for providing this opportunity to work on real-world Python tasks and enhance practical programming skills.
-
----
-
 ## 📜 License
 This project is created for educational purposes and is free to use.
